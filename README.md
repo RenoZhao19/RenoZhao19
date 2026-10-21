@@ -1,8 +1,21 @@
-# Hi, I'm Reno 👋  
+Hi, I'm Reno 👋
 
-🎓 Currently Studying as EECS Und. @ UC Berkeley  
-🤖 Interested in AI & Robotics — RL, Control, Perception  
-💻 Skills are developing
+🎓 EECS undergraduate at UC Berkeley
+🤖 Interested in robot learning, control, and perception
+🔬 Undergraduate researcher in Prof. Ana Claudia Arias’s group, exploring task-driven piezoresistive tactile sensing for robotic manipulation
 
-📌 More repos coming soon — stay tuned!
+I’m interested in how robots learn to interact with the physical world—especially how touch and feedback can improve manipulation.
 
+What I’m working on
+
+Exploring tactile sensing for contact and slip detection
+
+Building robotics projects with ROS 2
+
+Strengthening my foundations in reinforcement learning, optimization, and control
+
+Tools I work with
+
+Python · C/C++ · MATLAB · ROS 2 · NumPy · Git
+
+📫 renozhao@berkeley.edu
