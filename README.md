@@ -1,21 +1,11 @@
-Hi, I'm Reno 👋
+# Hi, I’m Reno Zhao
 
-🎓 EECS undergraduate at UC Berkeley
-🤖 Interested in robot learning, control, and perception
-🔬 Undergraduate researcher in Prof. Ana Claudia Arias’s group, exploring task-driven piezoresistive tactile sensing for robotic manipulation
+I’m an EECS undergraduate at UC Berkeley interested in robot learning and control. In Prof. Ana Claudia Arias’s group, I’ve been exploring how a robot gripper could use tactile sensors to tell when an object starts to slip.
 
-I’m interested in how robots learn to interact with the physical world—especially how touch and feedback can improve manipulation.
+## Current project · FACTR 2 on Hexfellow
 
-What I’m working on
+For EECS 106A, my team and I are working to reproduce FACTR 2’s force-feedback teleoperation experiments on the Hexfellow MAVER X4. We’re starting with NEXT, the paper’s method for estimating how much torque contact adds at each joint. The goal is to feel through the controller when Hexfellow’s arm meets resistance. [FACTR 2 paper and demos](https://jasonjzliu.com/factr2/)
 
-Exploring tactile sensing for contact and slip detection
+My part so far has been designing the two-handed controller in CAD. I’m also exploring which tasks make sense for Hexfellow’s two arms. One I’d like to test is holding a bottle steady with one gripper while the other unscrews the cap.
 
-Building robotics projects with ROS 2
-
-Strengthening my foundations in reinforcement learning, optimization, and control
-
-Tools I work with
-
-Python · C/C++ · MATLAB · ROS 2 · NumPy · Git
-
-📫 renozhao@berkeley.edu
+[renozhao@berkeley.edu](mailto:renozhao@berkeley.edu)
